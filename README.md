@@ -1,6 +1,6 @@
 # 🏠 RentMate
 
-**RentMate** is a modern web application designed to help students and bachelors across India rent and share items locally. The platform allows users to browse available items, list their own items for rent, and manage rentals via a user-friendly dashboard.
+**RentMate** is a modern web application designed to help students and bachelors across India rent and share items locally. The platform enables users to browse available items, list their own items for rent, and manage rentals through a user-friendly dashboard.
 
 ## 🚀 Tech Stack
 
@@ -22,10 +22,6 @@
 - 📱 Fully responsive design (mobile & desktop)
 - 🔄 Real-time updates using Firebase
 
-## 📸 Screenshots
-
-> *(Add your screenshots here)*  
-> Example: ![Dashboard Screenshot](./screenshots/dashboard.png)
 
 ## 🛠 Installation & Setup
 
@@ -37,7 +33,7 @@ cd rentmate
 # 2. Install dependencies
 npm install
 
-# 3. Set up Firebase config in `.env` file
+# 3. Set up Firebase config in the `.env` file
 VITE_FIREBASE_API_KEY=your_api_key
 VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
 # ... other Firebase env variables
